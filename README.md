@@ -1,22 +1,43 @@
-# 🐍 Instacart Python Data Modeling (Achievement 4)
+# 📊 Instacart Python Project – Achievement 4.10
 
-This repository contains the work completed for **Achievement 4** of the CareerFoundry Data Analytics Program. The focus of this project is to use **Python** for data cleaning, customer profiling, segmentation, and predictive modeling on Instacart customer data. The goal is to support the business team with insights that can help improve customer retention.
+This project analyzes customer and order behavior from Instacart using Python. The work focuses on cleaning data, profiling customers, identifying trends, and presenting results through a professional Excel report.
 
-## 🎯 Project Objectives
-
-- Clean and combine multiple large datasets (CSV, Excel, Pickle)
-- Create customer profiling variables (e.g., age group, income bracket, number of dependents)
-- Segment customers based on behavior and demographics
-- Use a **decision tree model** to predict the probability of customer churn
-- Recommend targeted strategies to retain high-risk customers
-
-## 🧰 Tools & Technologies
-
-- **Python:** Pandas, NumPy, Dask, scikit-learn
-- **Jupyter Notebook:** For cleaning, profiling, and modeling
-- **Matplotlib / Seaborn:** For creating visualizations
-- **Excel:** For the final project report and decision tree illustration
+---
 
 ## 📁 Folder Structure
+
+- **Script/**  
+  Contains Jupyter notebooks and Python scripts used for data analysis, cleaning, feature engineering, and segmentation.
+
+- **Analysis/ Visualization/**  
+  Includes output graphs, charts, and any Tableau or matplotlib visualizations.
+
+- **project management/**  
+  Documentation related to planning, timeline, task breakdown, and notes.
+
+- **sent to client/**  
+  Final Excel report summarizing key insights and business recommendations. This version is cleaned and client-ready.
+
+---
+
+## ✅ Project Highlights
+
+- Removed duplicates and missing values
+- Segmented customers by income, region, age, order frequency, and dependents
+- Identified top-spending and low-activity customers
+- Applied PII masking for privacy
+- Final deliverable presented in Excel format with clear results and recommendations
+
+---
+
+## 🛠 Tools Used
+
+- Python (Pandas, NumPy, Seaborn, Matplotlib)
+- Jupyter Notebook
+- Microsoft Excel
+
+> ⚠️ Datasets not included in this repository to maintain security and storage efficiency.
+
+
 
 
